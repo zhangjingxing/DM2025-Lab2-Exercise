@@ -5,3 +5,4 @@ config/.env
 *.bin
 *.gz
 
+"glove.6B.100d.txt" 
